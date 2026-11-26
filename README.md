@@ -1,4 +1,4 @@
-# 🏥 Plataforma Web — Vigilância Sanitária de Campinas
+# Plataforma Web — Vigilância Sanitária de Campinas
 
 > **Desenvolvimento de uma Plataforma Web para Organização e Acesso aos Serviços da Vigilância Sanitária do Município de Campinas**
 
@@ -6,7 +6,7 @@ Trabalho de Conclusão de Curso (TCC) apresentado ao curso de **Tecnologia em An
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 No município de Campinas, as orientações, legislações, formulários e procedimentos administrativos da Vigilância Sanitária encontram-se distribuídos em diferentes canais institucionais (como páginas da Prefeitura, portal do CVS-SP, SEI e VRE/REDESIM). 
 
@@ -16,7 +16,7 @@ Este projeto propõe a concepção, modelagem e prototipação de uma **platafor
 
 ---
 
-## 👥 Perfis de Usuários e Funcionalidades
+## Perfis de Usuários e Funcionalidades
 
 ### 1. Cidadão / Estabelecimento
 * **Consulta Centralizada:** Acesso unificado a serviços, orientações técnicas e legislações sanitárias vigentes.
@@ -31,7 +31,7 @@ Este projeto propõe a concepção, modelagem e prototipação de uma **platafor
 
 ---
 
-## 🛠️ Arquitetura e Tecnologias Previstas
+## Arquitetura e Tecnologias Previstas
 
 O projeto foi estruturado sob o padrão arquitetural **MVC (Model-View-Controller)**, visando a separação de responsabilidades, facilidade de manutenção e escalabilidade, em conformidade com as diretrizes de Governo Digital (Lei nº 14.129/2021) e da LGPD (Lei nº 13.709/2018).
 
@@ -45,7 +45,7 @@ O projeto foi estruturado sob o padrão arquitetural **MVC (Model-View-Controlle
 
 ---
 
-## 📊 Resultados da Avaliação dos Protótipos
+## Resultados da Avaliação dos Protótipos
 
 Os protótipos desenvolvidos foram avaliados por **101 participantes**, considerando os critérios de usabilidade da norma **ISO 9241-11** (efetividade, eficiência e satisfação):
 
@@ -54,7 +54,7 @@ Os protótipos desenvolvidos foram avaliados por **101 participantes**, consider
 
 ---
 
-## 🎓 Autoria e Orientação
+## Autoria e Orientação
 
 * **Autora:** Brenda Marques Bueno
 * **Orientadora:** Profa. Ma. Zady Castaneda Salazar
@@ -63,6 +63,6 @@ Os protótipos desenvolvidos foram avaliados por **101 participantes**, consider
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto foi desenvolvido para fins acadêmicos. Sinta-se à vontade para consultar e referenciar este trabalho citando a autora.
